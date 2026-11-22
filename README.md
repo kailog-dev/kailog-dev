@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Kai Shin (`@kailog-dev`)
 
-<!--
-**kailog-dev/kailog-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent builder working on **onchain market integrity, DeFi infrastructure, and autonomous AI agents**.  
+Focused on verifiable real-time systems, cross-chain automation, and agent-native APIs.
 
-Here are some ideas to get you started:
+#### Core Stack
+- **Onchain:** Solidity, Foundry, Base, Reactive Network (RSC), x402
+- **Backend & Agents:** TypeScript, Node.js, real-time market/DEX pipelines
+- **Frontend:** React, Vite, Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Active Builds
+| Project | Focus | Status |
+| :--- | :--- | :--- |
+| **StockGuard** | 24/7 tokenized-stock NAV vs. Base DEX depeg monitor, Reactive Network autonomous circuit breaker & x402 paid API | Shipping (v1.0) |
+
+#### Connect
+- X (Twitter): [@kailog_dev](https://x.com/kailog_dev)
